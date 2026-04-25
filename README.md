@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mndsva1234567890
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on python,java script
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on java
 - 📫 How to reach me laptop
 
 <!---
