@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mndsva1234567890
-- 👀 I’m interested in coding
+- 👀 I’m interested in data analytics 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on java
 - 📫 How to reach me laptop
